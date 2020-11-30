@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     # Third party
     'debug_toolbar',
     'django_extensions',
+    'rest_framework',
 
     # Project specific
     'api',
