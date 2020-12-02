@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'debug_toolbar',
     'django_extensions',
     'rest_framework',
+    'django_filters',
 
     # Project specific
     'api',
@@ -98,7 +99,7 @@ INTERNAL_IPS = [
 
 DATABASES = {
     'default': env.db(),
-    'extra': env.db('SQLITE_URL', default='sqlite:////tmp/my-tmp-sqlite.db'),
+    # 'extra': env.db('SQLITE_URL', default='sqlite:////tmp/my-tmp-sqlite.db'),
 }
 
 
@@ -139,3 +140,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+REST_FRAMEWORK = {
+    'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend'],
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 100,
+}

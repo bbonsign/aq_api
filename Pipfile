@@ -4,15 +4,17 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+autopep8 = "*"
+ipython = "*"
 
 [packages]
 django = "*"
 django-extensions = "*"
 django-environ = "*"
 django-debug-toolbar = "*"
-psycopg2 = "*"
-ipython = "*"
+# psycopg2 = "*"
 djangorestframework = "*"
+django-filter = "*"
 
 [requires]
 python_version = "3.8"

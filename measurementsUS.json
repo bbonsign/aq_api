@@ -1,0 +1,1612 @@
+{
+  "meta": {
+    "name": "openaq-api",
+    "license": "CC BY 4.0",
+    "website": "https://docs.openaq.org/",
+    "page": 1,
+    "limit": 100,
+    "found": 86247899
+  },
+  "results": [
+    {
+      "location": "Moxa Arch",
+      "parameter": "pm10",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 29,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 41.750599,
+        "longitude": -109.789703
+      },
+      "country": "US",
+      "city": "SWEETWATER"
+    },
+    {
+      "location": "Moxa Arch",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.007,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 41.750599,
+        "longitude": -109.789703
+      },
+      "country": "US",
+      "city": "SWEETWATER"
+    },
+    {
+      "location": "Wamsutter",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.037,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 41.6778,
+        "longitude": -108.0242
+      },
+      "country": "US",
+      "city": "Rock Springs"
+    },
+    {
+      "location": "Juel Spring",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.036,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 42.373001,
+        "longitude": -109.563004
+      },
+      "country": "US",
+      "city": "SUBLETTE"
+    },
+    {
+      "location": "Big Piney",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.035,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 42.486668,
+        "longitude": -110.099167
+      },
+      "country": "US",
+      "city": "SUBLETTE"
+    },
+    {
+      "location": "James Town Mobile",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 7,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 41.55643,
+        "longitude": -109.53044
+      },
+      "country": "US",
+      "city": "Rock Springs"
+    },
+    {
+      "location": "James Town Mobile",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.025,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 41.55643,
+        "longitude": -109.53044
+      },
+      "country": "US",
+      "city": "Rock Springs"
+    },
+    {
+      "location": "Riverton Mobile",
+      "parameter": "so2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.001,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 43.024214,
+        "longitude": -108.363703
+      },
+      "country": "US",
+      "city": "Riverton"
+    },
+    {
+      "location": "Riverton Mobile",
+      "parameter": "pm10",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 26,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 43.024214,
+        "longitude": -108.363703
+      },
+      "country": "US",
+      "city": "Riverton"
+    },
+    {
+      "location": "Riverton Mobile",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.007,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 43.024214,
+        "longitude": -108.363703
+      },
+      "country": "US",
+      "city": "Riverton"
+    },
+    {
+      "location": "Salladasburg",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 5.3,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 41.266192,
+        "longitude": -77.230933
+      },
+      "country": "US",
+      "city": "LYCOMING"
+    },
+    {
+      "location": "Uniontown",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.022,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 39.917663,
+        "longitude": -79.805499
+      },
+      "country": "US",
+      "city": "Pittsburgh"
+    },
+    {
+      "location": "Ramblewood Park",
+      "parameter": "pm10",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 5,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 35.123954,
+        "longitude": -80.907577
+      },
+      "country": "US",
+      "city": "Charlotte-Gastonia-Concord"
+    },
+    {
+      "location": "Moxa Arch",
+      "parameter": "so2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.005,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 41.750599,
+        "longitude": -109.789703
+      },
+      "country": "US",
+      "city": "SWEETWATER"
+    },
+    {
+      "location": "Moxa Arch",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.032,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 41.750599,
+        "longitude": -109.789703
+      },
+      "country": "US",
+      "city": "SWEETWATER"
+    },
+    {
+      "location": "Wamsutter",
+      "parameter": "pm10",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 1,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 41.6778,
+        "longitude": -108.0242
+      },
+      "country": "US",
+      "city": "Rock Springs"
+    },
+    {
+      "location": "Wamsutter",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.002,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 41.6778,
+        "longitude": -108.0242
+      },
+      "country": "US",
+      "city": "Rock Springs"
+    },
+    {
+      "location": "Juel Spring",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.001,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 42.373001,
+        "longitude": -109.563004
+      },
+      "country": "US",
+      "city": "SUBLETTE"
+    },
+    {
+      "location": "Big Piney",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.001,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 42.486668,
+        "longitude": -110.099167
+      },
+      "country": "US",
+      "city": "SUBLETTE"
+    },
+    {
+      "location": "Pinedale Gaseous",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.041,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 42.8698,
+        "longitude": -109.8708
+      },
+      "country": "US",
+      "city": "SUBLETTE"
+    },
+    {
+      "location": "Towanda",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.013,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 41.705226,
+        "longitude": -76.512726
+      },
+      "country": "US",
+      "city": "BRADFORD"
+    },
+    {
+      "location": "Altoona",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.023,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 40.515,
+        "longitude": -78.3889
+      },
+      "country": "US",
+      "city": "Altoona"
+    },
+    {
+      "location": "Kutztown",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.009,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 40.51408,
+        "longitude": -75.789703
+      },
+      "country": "US",
+      "city": "BERKS"
+    },
+    {
+      "location": "Hookstown",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.03,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 40.5625,
+        "longitude": -80.5042
+      },
+      "country": "US",
+      "city": "Pittsburgh"
+    },
+    {
+      "location": "Kittanning",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.027,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 40.8142,
+        "longitude": -79.565
+      },
+      "country": "US",
+      "city": "Pittsburgh"
+    },
+    {
+      "location": "Arendtsville",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.024,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 39.9233,
+        "longitude": -77.3081
+      },
+      "country": "US",
+      "city": "Gettysburg"
+    },
+    {
+      "location": "Triple Oak - Near Ro",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 4,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 35.8652,
+        "longitude": -78.8197
+      },
+      "country": "US",
+      "city": "Raleigh-Cary"
+    },
+    {
+      "location": "Triple Oak - Near Ro",
+      "parameter": "co",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.35,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 35.8652,
+        "longitude": -78.8197
+      },
+      "country": "US",
+      "city": "Raleigh-Cary"
+    },
+    {
+      "location": "Millbrook NCore",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 4,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 35.856111,
+        "longitude": -78.574167
+      },
+      "country": "US",
+      "city": "Raleigh-Cary"
+    },
+    {
+      "location": "Millbrook NCore",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.024,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 35.856111,
+        "longitude": -78.574167
+      },
+      "country": "US",
+      "city": "Raleigh-Cary"
+    },
+    {
+      "location": "Millbrook NCore",
+      "parameter": "co",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.23,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 35.856111,
+        "longitude": -78.574167
+      },
+      "country": "US",
+      "city": "Raleigh-Cary"
+    },
+    {
+      "location": "ROCKWELL",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 1,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 35.551868,
+        "longitude": -80.395039
+      },
+      "country": "US",
+      "city": "Salisbury"
+    },
+    {
+      "location": "ROCKWELL",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.002,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 35.551868,
+        "longitude": -80.395039
+      },
+      "country": "US",
+      "city": "Salisbury"
+    },
+    {
+      "location": "Northampton",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 3,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.511708,
+        "longitude": -77.655389
+      },
+      "country": "US",
+      "city": "NORTHAMPTON"
+    },
+    {
+      "location": "CASTLE H",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 4,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 34.364167,
+        "longitude": -77.838611
+      },
+      "country": "US",
+      "city": "Wilmington"
+    },
+    {
+      "location": "Ladue",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 2.9,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.650259,
+        "longitude": -90.350463
+      },
+      "country": "US",
+      "city": "St. Louis"
+    },
+    {
+      "location": "Rider Trail I-70",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.01,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 38.75264,
+        "longitude": -90.44884
+      },
+      "country": "US",
+      "city": "ST. LOUIS"
+    },
+    {
+      "location": "MTSP",
+      "parameter": "pm10",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 6,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 39.4751,
+        "longitude": -91.78899
+      },
+      "country": "US",
+      "city": "MONROE"
+    },
+    {
+      "location": "MTSP",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.001,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 39.4751,
+        "longitude": -91.78899
+      },
+      "country": "US",
+      "city": "MONROE"
+    },
+    {
+      "location": "Herculaneum, Mott St",
+      "parameter": "so2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.001,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 38.263394,
+        "longitude": -90.379667
+      },
+      "country": "US",
+      "city": "St. Louis"
+    },
+    {
+      "location": "ARNOLD WEST",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": -2.9,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 38.448581,
+        "longitude": -90.398436
+      },
+      "country": "US",
+      "city": "St. Louis"
+    },
+    {
+      "location": "CARTHAGE",
+      "parameter": "pm10",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 12,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.19822,
+        "longitude": -94.31702
+      },
+      "country": "US",
+      "city": "Joplin"
+    },
+    {
+      "location": "Blue Ridge I-70",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.005,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 39.047911,
+        "longitude": -94.450513
+      },
+      "country": "US",
+      "city": "Kansas City"
+    },
+    {
+      "location": "James Town Mobile",
+      "parameter": "so2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.001,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 41.55643,
+        "longitude": -109.53044
+      },
+      "country": "US",
+      "city": "Rock Springs"
+    },
+    {
+      "location": "James Town Mobile",
+      "parameter": "pm10",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 9,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 41.55643,
+        "longitude": -109.53044
+      },
+      "country": "US",
+      "city": "Rock Springs"
+    },
+    {
+      "location": "James Town Mobile",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.007,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 41.55643,
+        "longitude": -109.53044
+      },
+      "country": "US",
+      "city": "Rock Springs"
+    },
+    {
+      "location": "Riverton Mobile",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 7,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 43.024214,
+        "longitude": -108.363703
+      },
+      "country": "US",
+      "city": "Riverton"
+    },
+    {
+      "location": "Riverton Mobile",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.024,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 43.024214,
+        "longitude": -108.363703
+      },
+      "country": "US",
+      "city": "Riverton"
+    },
+    {
+      "location": "Tunkhannock",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 1.6,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 41.605244,
+        "longitude": -75.95774
+      },
+      "country": "US",
+      "city": "WYOMING"
+    },
+    {
+      "location": "New Milford",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.6,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 41.867336,
+        "longitude": -75.686602
+      },
+      "country": "US",
+      "city": "SUSQUEHANNA"
+    },
+    {
+      "location": "Uniontown",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 1.5,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 39.917663,
+        "longitude": -79.805499
+      },
+      "country": "US",
+      "city": "Pittsburgh"
+    },
+    {
+      "location": "Friendship Park",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 2,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 35.281791,
+        "longitude": -80.851473
+      },
+      "country": "US",
+      "city": "Charlotte-Gastonia-Concord"
+    },
+    {
+      "location": "Hinds CC",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 3.9,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 32.346905,
+        "longitude": -90.225928
+      },
+      "country": "US",
+      "city": "Jackson"
+    },
+    {
+      "location": "Jackson NCORE",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 4.6,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 32.329111,
+        "longitude": -90.182722
+      },
+      "country": "US",
+      "city": "Jackson"
+    },
+    {
+      "location": "Jackson NCORE",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.034,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 32.329111,
+        "longitude": -90.182722
+      },
+      "country": "US",
+      "city": "Jackson"
+    },
+    {
+      "location": "Atascadero2",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T13:00:00-08:00"
+      },
+      "value": 0.041,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 35.494556,
+        "longitude": -120.666203
+      },
+      "country": "US",
+      "city": "San Luis Obispo-Paso Robles"
+    },
+    {
+      "location": "Nipomo RP",
+      "parameter": "pm10",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T13:00:00-08:00"
+      },
+      "value": 26,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 35.0315,
+        "longitude": -120.50101
+      },
+      "country": "US",
+      "city": "San Luis Obispo-Paso Robles"
+    },
+    {
+      "location": "GBUAPCD EBAM @ Lone",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T13:00:00-08:00"
+      },
+      "value": 11,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 36.608967,
+        "longitude": -118.057945
+      },
+      "country": "US",
+      "city": "GBU"
+    },
+    {
+      "location": "Chester",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 5.3,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 39.8356,
+        "longitude": -75.3725
+      },
+      "country": "US",
+      "city": "Philadelphia-Camden-Wilmington"
+    },
+    {
+      "location": "Seedskadee",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.002,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 41.905004,
+        "longitude": -109.849956
+      },
+      "country": "US",
+      "city": "Rock Springs"
+    },
+    {
+      "location": "DANIA_BEACH",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 0.021,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 26.0864,
+        "longitude": -80.1114
+      },
+      "country": "US",
+      "city": "Miami-Fort Lauderdale-Miami Beach"
+    },
+    {
+      "location": "Ute 3",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.042,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 37.10258,
+        "longitude": -107.870219
+      },
+      "country": "US",
+      "city": "Durango"
+    },
+    {
+      "location": "Ute 1",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.04,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 37.13678,
+        "longitude": -107.62863
+      },
+      "country": "US",
+      "city": "Durango"
+    },
+    {
+      "location": "Ute 1",
+      "parameter": "co",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.3,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 37.13678,
+        "longitude": -107.62863
+      },
+      "country": "US",
+      "city": "Durango"
+    },
+    {
+      "location": "7004",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 0.042,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 37.205862,
+        "longitude": -107.254118
+      },
+      "country": "US",
+      "city": "ARCHULETA"
+    },
+    {
+      "location": "Red Bluff - Walnut o",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T13:00:00-08:00"
+      },
+      "value": 5,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 40.170917,
+        "longitude": -122.255667
+      },
+      "country": "US",
+      "city": "Red Bluff"
+    },
+    {
+      "location": "Redhills/Shandon",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T13:00:00-08:00"
+      },
+      "value": 0.048,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 35.64366,
+        "longitude": -120.23134
+      },
+      "country": "US",
+      "city": "San Luis Obispo-Paso Robles"
+    },
+    {
+      "location": "Atascadero2",
+      "parameter": "pm10",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T13:00:00-08:00"
+      },
+      "value": 23,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 35.494556,
+        "longitude": -120.666203
+      },
+      "country": "US",
+      "city": "San Luis Obispo-Paso Robles"
+    },
+    {
+      "location": "Atascadero2",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T13:00:00-08:00"
+      },
+      "value": 0.002,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 35.494556,
+        "longitude": -120.666203
+      },
+      "country": "US",
+      "city": "San Luis Obispo-Paso Robles"
+    },
+    {
+      "location": "Nipomo RP",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T13:00:00-08:00"
+      },
+      "value": 0.04,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 35.0315,
+        "longitude": -120.50101
+      },
+      "country": "US",
+      "city": "San Luis Obispo-Paso Robles"
+    },
+    {
+      "location": "BLAIR STREET",
+      "parameter": "so2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 38.656449,
+        "longitude": -90.198548
+      },
+      "country": "US",
+      "city": "St. Louis"
+    },
+    {
+      "location": "BLAIR STREET",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.025,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 38.656449,
+        "longitude": -90.198548
+      },
+      "country": "US",
+      "city": "St. Louis"
+    },
+    {
+      "location": "Cheyenne NCore",
+      "parameter": "pm10",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T14:00:00-07:00"
+      },
+      "value": 17,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 41.18222,
+        "longitude": -104.778336
+      },
+      "country": "US",
+      "city": "Cheyenne"
+    },
+    {
+      "location": "Rider Trail I-70",
+      "parameter": "so2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.001,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 38.75264,
+        "longitude": -90.44884
+      },
+      "country": "US",
+      "city": "ST. LOUIS"
+    },
+    {
+      "location": "MTSP",
+      "parameter": "so2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.001,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 39.4751,
+        "longitude": -91.78899
+      },
+      "country": "US",
+      "city": "MONROE"
+    },
+    {
+      "location": "MTSP",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.024,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 39.4751,
+        "longitude": -91.78899
+      },
+      "country": "US",
+      "city": "MONROE"
+    },
+    {
+      "location": "Troost",
+      "parameter": "no2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.017,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 39.10465,
+        "longitude": -94.57055
+      },
+      "country": "US",
+      "city": "Kansas City"
+    },
+    {
+      "location": "Buick NE",
+      "parameter": "so2",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.001,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 37.652142,
+        "longitude": -91.11653
+      },
+      "country": "US",
+      "city": "IRON"
+    },
+    {
+      "location": "Hillcrest HS",
+      "parameter": "pm10",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 6,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.256069,
+        "longitude": -93.299692
+      },
+      "country": "US",
+      "city": "Springfield"
+    },
+    {
+      "location": "ELDOSPGS",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 3.2,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 37.70097,
+        "longitude": -94.03474
+      },
+      "country": "US",
+      "city": "CEDAR"
+    },
+    {
+      "location": "St. Joseph",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.7,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 39.741667,
+        "longitude": -94.858333
+      },
+      "country": "US",
+      "city": "St. Joseph"
+    },
+    {
+      "location": "Hattiesburg",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 3.4,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 31.322779,
+        "longitude": -89.287498
+      },
+      "country": "US",
+      "city": "Hattiesburg"
+    },
+    {
+      "location": "Madisonville",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.9,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.4293,
+        "longitude": -90.1997
+      },
+      "country": "US",
+      "city": "New Orleans-Metairie-Kenner"
+    },
+    {
+      "location": "St. Martinville",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.036,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 30.008887,
+        "longitude": -91.869595
+      },
+      "country": "US",
+      "city": "Lafayette"
+    },
+    {
+      "location": "Convent",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.03,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 29.995,
+        "longitude": -90.8172
+      },
+      "country": "US",
+      "city": "ST. JAMES"
+    },
+    {
+      "location": "Chalmette Vista",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 8.5,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 29.9431,
+        "longitude": -89.9761
+      },
+      "country": "US",
+      "city": "New Orleans-Metairie-Kenner"
+    },
+    {
+      "location": "New Roads",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.035,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 30.6817,
+        "longitude": -91.3661
+      },
+      "country": "US",
+      "city": "Baton Rouge"
+    },
+    {
+      "location": "GPORT YC",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 3.4,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 30.39,
+        "longitude": -89.0497
+      },
+      "country": "US",
+      "city": "Gulfport-Biloxi"
+    },
+    {
+      "location": "City Park",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 1.6,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 29.9933,
+        "longitude": -90.1014
+      },
+      "country": "US",
+      "city": "New Orleans-Metairie-Kenner"
+    },
+    {
+      "location": "French Settlement",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.036,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 30.315,
+        "longitude": -90.8114
+      },
+      "country": "US",
+      "city": "Baton Rouge"
+    },
+    {
+      "location": "Thibodaux",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.035,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 29.7639,
+        "longitude": -90.7653
+      },
+      "country": "US",
+      "city": "Houma-Bayou Cane-Thibodaux"
+    },
+    {
+      "location": "Kenner",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.037,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 30.0411,
+        "longitude": -90.2728
+      },
+      "country": "US",
+      "city": "New Orleans-Metairie-Kenner"
+    },
+    {
+      "location": "Pride",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.034,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 30.7008,
+        "longitude": -91.0561
+      },
+      "country": "US",
+      "city": "Baton Rouge"
+    },
+    {
+      "location": "Capitol",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.033,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 30.4622,
+        "longitude": -91.1769
+      },
+      "country": "US",
+      "city": "Baton Rouge"
+    },
+    {
+      "location": "Vinton",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.04,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 30.2278,
+        "longitude": -93.5797
+      },
+      "country": "US",
+      "city": "Lake Charles"
+    },
+    {
+      "location": "Dixie",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.035,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 32.6833,
+        "longitude": -93.8617
+      },
+      "country": "US",
+      "city": "Shreveport-Bossier City"
+    },
+    {
+      "location": "Shreveport Airport",
+      "parameter": "o3",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T15:00:00-06:00"
+      },
+      "value": 0.034,
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 32.5364,
+        "longitude": -93.7492
+      },
+      "country": "US",
+      "city": "Shreveport-Bossier City"
+    },
+    {
+      "location": "Plummer CDA Tribe",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T13:00:00-08:00"
+      },
+      "value": 2,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 47.3386,
+        "longitude": -116.885902
+      },
+      "country": "US",
+      "city": "BENEWAH"
+    },
+    {
+      "location": "POMPANO_BEACH",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 4.7,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 26.2906,
+        "longitude": -80.0969
+      },
+      "country": "US",
+      "city": "Miami-Fort Lauderdale-Miami Beach"
+    },
+    {
+      "location": "Near Road",
+      "parameter": "pm25",
+      "date": {
+        "utc": "2020-11-30T21:00:00Z",
+        "local": "2020-11-30T16:00:00-05:00"
+      },
+      "value": 5.8,
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 26.131256,
+        "longitude": -80.167847
+      },
+      "country": "US",
+      "city": "Miami-Fort Lauderdale-Miami Beach"
+    }
+  ]
+}

@@ -18,8 +18,11 @@ from django.urls import path
 
 import debug_toolbar
 from django.urls.conf import include
+import api.views as views
 
 urlpatterns = [
     path('__debuf__', include(debug_toolbar.urls)),
+    path('', views.home),
     path('admin/', admin.site.urls),
+    path('api/v1/', include('api.urls'), name='api-root'),
 ]
